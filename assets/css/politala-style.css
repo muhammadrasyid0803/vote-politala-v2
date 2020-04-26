@@ -1,0 +1,24 @@
+.user-img{
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 100%;
+    background-image: url('http://localhost/vote/assets/image/user-img.png');
+    background-size: cover;
+}
+
+.bg-check{
+    background-image: url('http://localhost/vote/assets/image/vote-1.jpg');
+    background-size: cover;
+}
+
+.txt-bio{
+    font-size: 5px !important;
+}
+
+nav .logo-img{
+    width: 20px !important;
+    height: 20px !important;
+    background-color: black !important;
+}
